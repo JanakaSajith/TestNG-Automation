@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-16T11:14:07 IST" name="Default suite" finished-at="2023-12-16T11:16:30 IST" duration-ms="143483">
+    <groups>
+    </groups>
+    <test started-at="2023-12-16T11:14:07 IST" name="Default test" finished-at="2023-12-16T11:16:30 IST" duration-ms="143483">
+      <class name="testNGPractical.Individual_Assignment">
+        <test-method is-config="true" signature="beforeTestExecution()[pri:0, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:14:07 IST" name="beforeTestExecution" finished-at="2023-12-16T11:14:26 IST" duration-ms="19263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestExecution -->
+        <test-method signature="FailedUserLoginFunction1()[pri:1, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:14:26 IST" name="FailedUserLoginFunction1" finished-at="2023-12-16T11:14:32 IST" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedUserLoginFunction1 -->
+        <test-method signature="FailedUserLoginFunction2()[pri:2, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:14:32 IST" name="FailedUserLoginFunction2" finished-at="2023-12-16T11:14:41 IST" duration-ms="9240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedUserLoginFunction2 -->
+        <test-method signature="FailedUserLoginFunction3()[pri:3, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:14:41 IST" name="FailedUserLoginFunction3" finished-at="2023-12-16T11:14:51 IST" duration-ms="9596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedUserLoginFunction3 -->
+        <test-method signature="SuccessUserLoginFunction()[pri:4, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:14:51 IST" name="SuccessUserLoginFunction" finished-at="2023-12-16T11:15:00 IST" duration-ms="9744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessUserLoginFunction -->
+        <test-method signature="VerifyLoadedResult()[pri:5, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:00 IST" name="VerifyLoadedResult" finished-at="2023-12-16T11:15:03 IST" duration-ms="2295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoadedResult -->
+        <test-method signature="VerifyHeaderText()[pri:6, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:03 IST" name="VerifyHeaderText" finished-at="2023-12-16T11:15:05 IST" duration-ms="2267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHeaderText -->
+        <test-method signature="VerifyPageTitle()[pri:7, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:05 IST" name="VerifyPageTitle" finished-at="2023-12-16T11:15:07 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPageTitle -->
+        <test-method signature="ButtonTrasition()[pri:8, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:07 IST" name="ButtonTrasition" finished-at="2023-12-16T11:15:12 IST" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonTrasition -->
+        <test-method signature="CartItemCount()[pri:9, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:12 IST" name="CartItemCount" finished-at="2023-12-16T11:15:13 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartItemCount -->
+        <test-method signature="ClickcartIcon()[pri:10, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:13 IST" name="ClickcartIcon" finished-at="2023-12-16T11:15:15 IST" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickcartIcon -->
+        <test-method signature="VerifyCartHeaderText()[pri:11, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:15 IST" name="VerifyCartHeaderText" finished-at="2023-12-16T11:15:17 IST" duration-ms="2233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCartHeaderText -->
+        <test-method signature="VerifyItemDetails()[pri:12, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:17 IST" name="VerifyItemDetails" finished-at="2023-12-16T11:15:19 IST" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyItemDetails -->
+        <test-method signature="VerifyItemPrice()[pri:13, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:19 IST" name="VerifyItemPrice" finished-at="2023-12-16T11:15:22 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyItemPrice -->
+        <test-method signature="VerifyItemCount()[pri:14, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:22 IST" name="VerifyItemCount" finished-at="2023-12-16T11:15:24 IST" duration-ms="2171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyItemCount -->
+        <test-method signature="ContinueShoppingBTN()[pri:15, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:24 IST" name="ContinueShoppingBTN" finished-at="2023-12-16T11:15:29 IST" duration-ms="5410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueShoppingBTN -->
+        <test-method signature="RemoveBTN()[pri:16, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:29 IST" name="RemoveBTN" finished-at="2023-12-16T11:15:44 IST" duration-ms="14431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveBTN -->
+        <test-method signature="CheckoutBTN()[pri:17, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:44 IST" name="CheckoutBTN" finished-at="2023-12-16T11:15:46 IST" duration-ms="2270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutBTN -->
+        <test-method signature="VerifyCheckoutHeaderText()[pri:18, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:46 IST" name="VerifyCheckoutHeaderText" finished-at="2023-12-16T11:15:48 IST" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCheckoutHeaderText -->
+        <test-method signature="CancelBTN()[pri:19, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:48 IST" name="CancelBTN" finished-at="2023-12-16T11:15:52 IST" duration-ms="4307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CancelBTN -->
+        <test-method signature="ContinueBTNerr1()[pri:20, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:52 IST" name="ContinueBTNerr1" finished-at="2023-12-16T11:15:56 IST" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueBTNerr1 -->
+        <test-method signature="ContinueBTNerr2()[pri:21, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:15:56 IST" name="ContinueBTNerr2" finished-at="2023-12-16T11:16:01 IST" duration-ms="4933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueBTNerr2 -->
+        <test-method signature="ContinueBTN()[pri:22, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:01 IST" name="ContinueBTN" finished-at="2023-12-16T11:16:12 IST" duration-ms="10928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueBTN -->
+        <test-method signature="VerifyCheckoutHeaderTxt()[pri:22, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:12 IST" name="VerifyCheckoutHeaderTxt" finished-at="2023-12-16T11:16:14 IST" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCheckoutHeaderTxt -->
+        <test-method signature="ComparePrice()[pri:23, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:14 IST" name="ComparePrice" finished-at="2023-12-16T11:16:16 IST" duration-ms="2244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComparePrice -->
+        <test-method signature="PriceCalculation()[pri:24, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:16 IST" name="PriceCalculation" finished-at="2023-12-16T11:16:18 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceCalculation -->
+        <test-method signature="finishbutton()[pri:25, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:18 IST" name="finishbutton" finished-at="2023-12-16T11:16:28 IST" duration-ms="9731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishbutton -->
+        <test-method is-config="true" signature="AfterTestExecutionProcess()[pri:0, instance:testNGPractical.Individual_Assignment@21e360a]" started-at="2023-12-16T11:16:28 IST" name="AfterTestExecutionProcess" finished-at="2023-12-16T11:16:30 IST" duration-ms="2262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestExecutionProcess -->
+      </class> <!-- testNGPractical.Individual_Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
